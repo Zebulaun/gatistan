@@ -3,7 +3,7 @@ html {
 } 
 
 
-@media screen and (min-width: 99999px) {
+@media screen and (min-width: 720px) {
     body {
         font-family: sans-serif;
         background-color: red;
